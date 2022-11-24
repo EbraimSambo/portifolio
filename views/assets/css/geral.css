@@ -289,7 +289,7 @@ html{
     }
 
     .services .container{
-        grid-template-columns: repeat(auto-fit, 18rem); 
+        grid-template-columns: repeat(auto-fit, 20rem); 
      }
 }
 
